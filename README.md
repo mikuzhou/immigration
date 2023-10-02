@@ -1,4 +1,4 @@
-# README: Project Work Summary
+# Project Work Summary
 
 ## Overview
 In this project, we conducted a debate on two specific dates, September 27, 2023, and September 30, 2023. Our primary focus was on architecture and benchmark migration, and we explored various approaches to achieve this task. This README provides a brief summary of our work and the outcomes of our experiments.
