@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_34",
+    "description": "Description: Develop a program to recognize objects in images concurrently. \nRequirements: \nImplement an image recognition system that allows multiple images to be analyzed for objects concurrently.\\\nEnsure that object recognition is performed correctly and concurrently.\\\nTest Set: \nProvide a set of images for object recognition.\\\nExecute object recognition functions concurrently.\\\nVerify that objects in all images are recognized correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program to recognize objects in images concurrently. \nRequirements: \nImplement an image recognition system that allows multiple images to be analyzed for objects concurrently.\\\nEnsure that object recognition is performed correctly and concurrently.\\\nTest Set: \nProvide a set of images for object recognition.\\\nExecute object recognition functions concurrently.\\\nVerify that objects in all images are recognized correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

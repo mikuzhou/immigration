@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_84",
+    "description": "Description: Develop a program to concurrently execute a batch of computational tasks. \nRequirements: \nImplement a task execution system that allows multiple computational tasks to be executed concurrently.\\\nEnsure that tasks are executed correctly and concurrently.\\\nTest Set: \nProvide a list of tasks that need to be executed.\\\nExecute tasks concurrently and capture their results.\\\nVerify that tasks are executed correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program to concurrently execute a batch of computational tasks. \nRequirements: \nImplement a task execution system that allows multiple computational tasks to be executed concurrently.\\\nEnsure that tasks are executed correctly and concurrently.\\\nTest Set: \nProvide a list of tasks that need to be executed.\\\nExecute tasks concurrently and capture their results.\\\nVerify that tasks are executed correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_66",
+    "description": "Description: Develop a program to concurrently handle multiple chat sessions in a chat application. \nRequirements: \nImplement a chat application that allows multiple users to send and receive messages concurrently.\\\nEnsure that chat sessions are handled correctly and concurrently.\\\nTest Set: \nSimulate multiple users sending messages concurrently.\\\nVerify that messages are delivered to the correct recipients.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program to concurrently handle multiple chat sessions in a chat application. \nRequirements: \nImplement a chat application that allows multiple users to send and receive messages concurrently.\\\nEnsure that chat sessions are handled correctly and concurrently.\\\nTest Set: \nSimulate multiple users sending messages concurrently.\\\nVerify that messages are delivered to the correct recipients.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_17",
+    "description": "Description: Create a program that uploads images concurrently to a server. \nRequirements: \nImplement an image upload system that allows multiple images to be uploaded concurrently to a server.\\\nEnsure that images are uploaded correctly and concurrently.\\\nTest Set:    image_files = [\\",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program that uploads images concurrently to a server. \nRequirements: \nImplement an image upload system that allows multiple images to be uploaded concurrently to a server.\\\nEnsure that images are uploaded correctly and concurrently.\\\nTest Set:    image_files = [\\",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

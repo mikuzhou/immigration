@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_70",
+    "description": "Description: Build a program to concurrently render multiple video clips. \nRequirements: \nImplement a video rendering system that allows multiple video clips to be rendered concurrently.\\\nEnsure that video rendering operations are performed correctly and concurrently.\\\nTest Set: \nProvide a list of video clips and rendering tasks.\\\nExecute rendering functions concurrently.\\\nVerify that all video clips are rendered correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Build a program to concurrently render multiple video clips. \nRequirements: \nImplement a video rendering system that allows multiple video clips to be rendered concurrently.\\\nEnsure that video rendering operations are performed correctly and concurrently.\\\nTest Set: \nProvide a list of video clips and rendering tasks.\\\nExecute rendering functions concurrently.\\\nVerify that all video clips are rendered correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

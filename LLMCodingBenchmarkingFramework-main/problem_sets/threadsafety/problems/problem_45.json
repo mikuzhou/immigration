@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_45",
+    "description": "Description: Create a program to concurrently generate PDF documents. \nRequirements: \nImplement a PDF generation system that allows multiple PDF documents to be generated concurrently.\\\nEnsure that PDF generation is performed correctly and concurrently.\\\nTest Set: \nProvide a list of data for PDF generation.\\\nExecute PDF generation functions concurrently.\\\nVerify that all PDF documents are generated correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program to concurrently generate PDF documents. \nRequirements: \nImplement a PDF generation system that allows multiple PDF documents to be generated concurrently.\\\nEnsure that PDF generation is performed correctly and concurrently.\\\nTest Set: \nProvide a list of data for PDF generation.\\\nExecute PDF generation functions concurrently.\\\nVerify that all PDF documents are generated correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

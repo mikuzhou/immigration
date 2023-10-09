@@ -1,0 +1,60 @@
+{
+    "identifier": "problem_89",
+    "description": "Description: Build a program to concurrently analyze data from multiple sources, such as logs, sensor readings, or user interactions. \nRequirements: \nImplement a data analysis system that allows data from multiple sources to be analyzed concurrently with various analysis tasks.\\\nEnsure that data analysis tasks are performed correctly and concurrently.\\\nTest Set: \nProvide a list of data sources and analysis tasks (e.g., log analysis, anomaly detection).\\\nExecute analysis functions concurrently.\\\nVerify that analysis results are saved correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Build a program to concurrently analyze data from multiple sources, such as logs, sensor readings, or user interactions. \nRequirements: \nImplement a data analysis system that allows data from multiple sources to be analyzed concurrently with various analysis tasks.\\\nEnsure that data analysis tasks are performed correctly and concurrently.\\\nTest Set: \nProvide a list of data sources and analysis tasks (e.g., log analysis, anomaly detection).\\\nExecute analysis functions concurrently.\\\nVerify that analysis results are saved correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "read_sensor",
+        "parameters": [
+            {
+                "name": "sensor_id",
+                "type": "str"
+            },
+            {
+                "name": "reading",
+                "type": "float"
+            }
+        ],
+        "return_values": [
+            {
+                "type": "dict"
+            }
+        ]
+    },
+    "correctness_test_suite": [
+        {
+            "input": {
+                "sensor_id": "Sensor1",
+                "reading": 25.5
+            },
+            "expected_output": [
+                {
+                    "Sensor1": 25.5
+                }
+            ]
+        },
+        {
+            "input": {
+                "sensor_id": "Sensor2",
+                "reading": 30.0
+            },
+            "expected_output": [
+                {
+                    "Sensor2": 30.0
+                }
+            ]
+        }
+    ],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_50",
+    "description": "Description: Create a program to concurrently process a batch of images. \nRequirements: \nImplement an image processing system that allows multiple images to be processed concurrently.\\\nEnsure that image processing is performed correctly and concurrently.\\\nTest Set: \nProvide a list of image files to process.\\\nExecute image processing functions concurrently.\\\nVerify that all images are processed correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program to concurrently process a batch of images. \nRequirements: \nImplement an image processing system that allows multiple images to be processed concurrently.\\\nEnsure that image processing is performed correctly and concurrently.\\\nTest Set: \nProvide a list of image files to process.\\\nExecute image processing functions concurrently.\\\nVerify that all images are processed correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

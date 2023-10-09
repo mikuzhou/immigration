@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_80",
+    "description": "Description: Develop a program to concurrently query a database for data from multiple clients. \nRequirements: \nImplement a database query system that allows multiple clients to query a database concurrently.\\\nEnsure that database queries are executed correctly and concurrently.\\\nTest Set: \nProvide a list of queries from multiple clients.\\\nExecute query functions concurrently.\\\nVerify that data is retrieved correctly for all clients.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program to concurrently query a database for data from multiple clients. \nRequirements: \nImplement a database query system that allows multiple clients to query a database concurrently.\\\nEnsure that database queries are executed correctly and concurrently.\\\nTest Set: \nProvide a list of queries from multiple clients.\\\nExecute query functions concurrently.\\\nVerify that data is retrieved correctly for all clients.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

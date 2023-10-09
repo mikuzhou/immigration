@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_42",
+    "description": "Description: Design a concurrent search engine that searches multiple search engines concurrently and aggregates the results. \nRequirements: \nImplement a concurrent search engine that allows multiple search queries to be executed on multiple search engines concurrently.\\\nEnsure that search results are aggregated correctly and concurrently.\\\nTest Set: \nProvide a list of search queries and search engines.\\\nExecute search functions concurrently.\\\nVerify that search results are correctly aggregated.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Design a concurrent search engine that searches multiple search engines concurrently and aggregates the results. \nRequirements: \nImplement a concurrent search engine that allows multiple search queries to be executed on multiple search engines concurrently.\\\nEnsure that search results are aggregated correctly and concurrently.\\\nTest Set: \nProvide a list of search queries and search engines.\\\nExecute search functions concurrently.\\\nVerify that search results are correctly aggregated.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_96",
+    "description": "Description: Build a program to concurrently control IoT devices and collect data from them. \nRequirements: \nImplement an IoT device control system that allows multiple IoT devices to be controlled and monitored concurrently.\\\nEnsure that IoT device control and data collection are performed correctly and concurrently.\\\nTest Set: \nProvide a list of IoT devices and control tasks (e.g., turn on/off, collect sensor data).\\\nExecute control and data collection functions concurrently.\\\nVerify that IoT devices are controlled correctly and data is collected accurately.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Build a program to concurrently control IoT devices and collect data from them. \nRequirements: \nImplement an IoT device control system that allows multiple IoT devices to be controlled and monitored concurrently.\\\nEnsure that IoT device control and data collection are performed correctly and concurrently.\\\nTest Set: \nProvide a list of IoT devices and control tasks (e.g., turn on/off, collect sensor data).\\\nExecute control and data collection functions concurrently.\\\nVerify that IoT devices are controlled correctly and data is collected accurately.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

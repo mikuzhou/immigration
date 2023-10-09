@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_19",
+    "description": "Description: Design a program that performs concurrent updates to a database. \nRequirements: \nImplement a database update system that allows multiple threads to update the database concurrently.\\\nEnsure that database updates are performed correctly and concurrently.\\\nTest Set: \nSimulate multiple threads performing database updates.\\\nVerify that the database is updated correctly considering the concurrent updates.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Design a program that performs concurrent updates to a database. \nRequirements: \nImplement a database update system that allows multiple threads to update the database concurrently.\\\nEnsure that database updates are performed correctly and concurrently.\\\nTest Set: \nSimulate multiple threads performing database updates.\\\nVerify that the database is updated correctly considering the concurrent updates.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

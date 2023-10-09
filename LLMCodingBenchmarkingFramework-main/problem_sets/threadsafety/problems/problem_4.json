@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_4",
+    "description": "Description: Create a program that sorts a list of numbers concurrently using a parallel sorting algorithm. \nRequirements: \nImplement a parallel sorting algorithm.\\\nEnsure that the sorting algorithm is correct and thread-safe.\\\nTest Set: \nSort a list of random numbers concurrently.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program that sorts a list of numbers concurrently using a parallel sorting algorithm. \nRequirements: \nImplement a parallel sorting algorithm.\\\nEnsure that the sorting algorithm is correct and thread-safe.\\\nTest Set: \nSort a list of random numbers concurrently.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

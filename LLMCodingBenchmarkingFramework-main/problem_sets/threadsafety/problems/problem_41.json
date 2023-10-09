@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_41",
+    "description": "Description: Develop a program that concurrently compresses multiple files. \nRequirements: \nImplement a file compression system that allows multiple files to be compressed concurrently.\\\nEnsure that files are compressed correctly and concurrently.\\\nTest Set: \nProvide a list of files to be compressed.\\\nExecute file compression functions concurrently.\\\nVerify that all files are compressed correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program that concurrently compresses multiple files. \nRequirements: \nImplement a file compression system that allows multiple files to be compressed concurrently.\\\nEnsure that files are compressed correctly and concurrently.\\\nTest Set: \nProvide a list of files to be compressed.\\\nExecute file compression functions concurrently.\\\nVerify that all files are compressed correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

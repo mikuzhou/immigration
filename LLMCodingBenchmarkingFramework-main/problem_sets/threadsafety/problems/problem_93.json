@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_93",
+    "description": "Description: Develop a program to concurrently update data in a database from multiple clients. \nRequirements: \nImplement a database update system that allows multiple clients to update data concurrently.\\\nEnsure that database updates are performed correctly and concurrently.\\\nTest Set: \nProvide a list of database update requests from multiple clients.\\\nExecute update functions concurrently.\\\nVerify that the database is updated correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program to concurrently update data in a database from multiple clients. \nRequirements: \nImplement a database update system that allows multiple clients to update data concurrently.\\\nEnsure that database updates are performed correctly and concurrently.\\\nTest Set: \nProvide a list of database update requests from multiple clients.\\\nExecute update functions concurrently.\\\nVerify that the database is updated correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

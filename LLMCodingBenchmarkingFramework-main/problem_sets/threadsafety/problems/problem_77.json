@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_77",
+    "description": "Description: Create a program to concurrently compress multiple files using different compression algorithms. \nRequirements: \nImplement a file compression system that allows multiple files to be compressed concurrently using different algorithms.\\\nEnsure that file compression is performed correctly and concurrently.\\\nTest Set: \nProvide a list of files and compression algorithms.\\\nExecute compression functions concurrently.\\\nVerify that all files are compressed correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program to concurrently compress multiple files using different compression algorithms. \nRequirements: \nImplement a file compression system that allows multiple files to be compressed concurrently using different algorithms.\\\nEnsure that file compression is performed correctly and concurrently.\\\nTest Set: \nProvide a list of files and compression algorithms.\\\nExecute compression functions concurrently.\\\nVerify that all files are compressed correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

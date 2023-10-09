@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_14",
+    "description": "Description: Develop a chat application where multiple users can send and receive messages concurrently. \nRequirements: \nImplement a chat application that allows multiple users to send and receive messages concurrently.\\\nEnsure that messages are sent and received correctly and concurrently.\\\nTest Set:    users = [\\",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a chat application where multiple users can send and receive messages concurrently. \nRequirements: \nImplement a chat application that allows multiple users to send and receive messages concurrently.\\\nEnsure that messages are sent and received correctly and concurrently.\\\nTest Set:    users = [\\",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

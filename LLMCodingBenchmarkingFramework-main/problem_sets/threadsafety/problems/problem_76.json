@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_76",
+    "description": "Description: Create a program to concurrently post updates on multiple social media platforms. \nRequirements: \nImplement a social media posting system that allows multiple posts to be made on different platforms concurrently.\\\nEnsure that posts are made correctly and concurrently.\\\nTest Set: \nProvide a list of posts and target social media platforms.\\\nExecute posting functions concurrently.\\\nVerify that posts are successfully posted on all platforms.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program to concurrently post updates on multiple social media platforms. \nRequirements: \nImplement a social media posting system that allows multiple posts to be made on different platforms concurrently.\\\nEnsure that posts are made correctly and concurrently.\\\nTest Set: \nProvide a list of posts and target social media platforms.\\\nExecute posting functions concurrently.\\\nVerify that posts are successfully posted on all platforms.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

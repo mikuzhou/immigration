@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_13",
+    "description": "Description: Create a program that performs matrix multiplication concurrently. \nRequirements: \nImplement a matrix multiplication system that allows multiple matrix multiplications to be performed concurrently.\\\nEnsure that matrix multiplications are done correctly and concurrently.\\\nTest Set: \nProvide a set of matrices for multiplication.\\\nExecute matrix multiplication functions concurrently.\\\nVerify that matrix multiplications are done correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program that performs matrix multiplication concurrently. \nRequirements: \nImplement a matrix multiplication system that allows multiple matrix multiplications to be performed concurrently.\\\nEnsure that matrix multiplications are done correctly and concurrently.\\\nTest Set: \nProvide a set of matrices for multiplication.\\\nExecute matrix multiplication functions concurrently.\\\nVerify that matrix multiplications are done correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

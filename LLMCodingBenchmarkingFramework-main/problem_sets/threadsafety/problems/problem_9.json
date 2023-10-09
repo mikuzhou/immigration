@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_9",
+    "description": "Description: Design a program that applies image filters concurrently to a set of images. \nRequirements: \nImplement a system for applying image filters concurrently.\\\nAllow multiple threads to process images with different filters concurrently.\\\nEnsure that image filtering is performed correctly and concurrently.\\\nTest Set:[\\",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Design a program that applies image filters concurrently to a set of images. \nRequirements: \nImplement a system for applying image filters concurrently.\\\nAllow multiple threads to process images with different filters concurrently.\\\nEnsure that image filtering is performed correctly and concurrently.\\\nTest Set:[\\",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

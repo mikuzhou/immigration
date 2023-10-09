@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_67",
+    "description": "Description: Build a program to concurrently edit multiple video files. \nRequirements: \nImplement a video editing system that allows multiple video files to be edited concurrently.\\\nEnsure that video editing operations are performed correctly and concurrently.\\\nTest Set: \nProvide a list of video files and editing tasks.\\\nExecute video editing functions concurrently.\\\nVerify that all video files are edited correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Build a program to concurrently edit multiple video files. \nRequirements: \nImplement a video editing system that allows multiple video files to be edited concurrently.\\\nEnsure that video editing operations are performed correctly and concurrently.\\\nTest Set: \nProvide a list of video files and editing tasks.\\\nExecute video editing functions concurrently.\\\nVerify that all video files are edited correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_99",
+    "description": "Description: Develop a concurrent task scheduler that allows multiple tasks to be executed concurrently on a set of worker threads. \nRequirements: \nImplement a task scheduler that can execute multiple tasks concurrently on worker threads.\\\nEnsure that tasks are scheduled correctly and executed concurrently.\\\nTest Set: \nProvide a list of tasks with their execution times.\\\nExecute tasks concurrently on worker threads.\\\nVerify that tasks are completed correctly and concurrently.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a concurrent task scheduler that allows multiple tasks to be executed concurrently on a set of worker threads. \nRequirements: \nImplement a task scheduler that can execute multiple tasks concurrently on worker threads.\\\nEnsure that tasks are scheduled correctly and executed concurrently.\\\nTest Set: \nProvide a list of tasks with their execution times.\\\nExecute tasks concurrently on worker threads.\\\nVerify that tasks are completed correctly and concurrently.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_78",
+    "description": "Description: Develop a program to concurrently retrieve weather data for multiple cities from different sources. \nRequirements: \nImplement a weather data retrieval system that allows data for multiple cities to be fetched concurrently from different sources (e.g., APIs).\\\nEnsure that weather data retrieval is performed correctly and concurrently.\\\nTest Set: \nProvide a list of cities and data sources (e.g., APIs).\\\nExecute retrieval functions concurrently.\\\nVerify that weather data is fetched correctly for all cities.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program to concurrently retrieve weather data for multiple cities from different sources. \nRequirements: \nImplement a weather data retrieval system that allows data for multiple cities to be fetched concurrently from different sources (e.g., APIs).\\\nEnsure that weather data retrieval is performed correctly and concurrently.\\\nTest Set: \nProvide a list of cities and data sources (e.g., APIs).\\\nExecute retrieval functions concurrently.\\\nVerify that weather data is fetched correctly for all cities.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

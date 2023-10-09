@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_46",
+    "description": "Description: Develop a program for a concurrent game server. \nRequirements: \nImplement a game server that allows multiple players to interact concurrently in an online game.\\\nEnsure that player actions and interactions are processed correctly and concurrently.\\\nTest Set: \nSimulate multiple players interacting with the game server concurrently.\\\nVerify that player actions and interactions are processed correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program for a concurrent game server. \nRequirements: \nImplement a game server that allows multiple players to interact concurrently in an online game.\\\nEnsure that player actions and interactions are processed correctly and concurrently.\\\nTest Set: \nSimulate multiple players interacting with the game server concurrently.\\\nVerify that player actions and interactions are processed correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

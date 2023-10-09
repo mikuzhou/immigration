@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_74",
+    "description": "Description: Develop a program to concurrently process payments from multiple customers. \nRequirements: \nImplement a payment processing system that allows multiple payments to be processed concurrently.\\\nEnsure that payments are processed correctly and concurrently.\\\nTest Set: \nProvide a list of customer payments and payment processing tasks.\\\nExecute payment processing functions concurrently.\\\nVerify that all payments are processed successfully.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program to concurrently process payments from multiple customers. \nRequirements: \nImplement a payment processing system that allows multiple payments to be processed concurrently.\\\nEnsure that payments are processed correctly and concurrently.\\\nTest Set: \nProvide a list of customer payments and payment processing tasks.\\\nExecute payment processing functions concurrently.\\\nVerify that all payments are processed successfully.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_25",
+    "description": "Description: Build a program that executes tasks concurrently. \nRequirements: \nImplement a task execution system that allows multiple tasks to be executed concurrently.\\\nEnsure that tasks are executed correctly and concurrently.\\\nTest Set: \nDefine a set of tasks with different execution times.\\\nExecute these tasks concurrently using the task execution system.\\\nVerify that tasks are executed correctly within their specified times.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Build a program that executes tasks concurrently. \nRequirements: \nImplement a task execution system that allows multiple tasks to be executed concurrently.\\\nEnsure that tasks are executed correctly and concurrently.\\\nTest Set: \nDefine a set of tasks with different execution times.\\\nExecute these tasks concurrently using the task execution system.\\\nVerify that tasks are executed correctly within their specified times.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_10",
+    "description": "Description: Develop a program that allocates and manages resources concurrently. \nRequirements: \nImplement a resource allocation system that allows multiple threads to request and release resources.\\\nEnsure that resource allocation and release are handled correctly and concurrently.\\\nTest Set: \nSimulate multiple threads requesting and releasing resources.\\\nVerify that the resource allocation and release are handled correctly, considering resource limits.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program that allocates and manages resources concurrently. \nRequirements: \nImplement a resource allocation system that allows multiple threads to request and release resources.\\\nEnsure that resource allocation and release are handled correctly and concurrently.\\\nTest Set: \nSimulate multiple threads requesting and releasing resources.\\\nVerify that the resource allocation and release are handled correctly, considering resource limits.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

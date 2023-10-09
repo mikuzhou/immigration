@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_11",
+    "description": "Description: Create a program to process orders concurrently from multiple customers. \nRequirements: \nImplement an order processing system that allows multiple customer orders to be processed concurrently.\\\nEnsure that orders are processed correctly and concurrently, and that stock is updated accurately.\\\nTest Set:    customer_orders = [\\\n        {\\",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program to process orders concurrently from multiple customers. \nRequirements: \nImplement an order processing system that allows multiple customer orders to be processed concurrently.\\\nEnsure that orders are processed correctly and concurrently, and that stock is updated accurately.\\\nTest Set:    customer_orders = [\\\n        {\\",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

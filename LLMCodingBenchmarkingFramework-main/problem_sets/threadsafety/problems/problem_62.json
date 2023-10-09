@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_62",
+    "description": "Description: Develop a program to concurrently translate text into multiple languages. \nRequirements: \nImplement a text translation system that allows multiple text translations to be performed concurrently.\\\nEnsure that text translations are accurate and performed concurrently.\\\nTest Set: \nProvide a list of text phrases and target languages.\\\nExecute translation functions concurrently.\\\nVerify that all translations are correct.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program to concurrently translate text into multiple languages. \nRequirements: \nImplement a text translation system that allows multiple text translations to be performed concurrently.\\\nEnsure that text translations are accurate and performed concurrently.\\\nTest Set: \nProvide a list of text phrases and target languages.\\\nExecute translation functions concurrently.\\\nVerify that all translations are correct.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

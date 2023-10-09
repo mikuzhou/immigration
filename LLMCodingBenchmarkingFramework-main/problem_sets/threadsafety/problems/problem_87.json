@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_87",
+    "description": "Description: Create a program to concurrently process multiple documents, such as parsing, analyzing, and generating reports. \nRequirements: \nImplement a document processing system that allows multiple documents to be processed concurrently with different tasks.\\\nEnsure that document processing tasks are performed correctly and concurrently.\\\nTest Set: \nProvide a list of document files and processing tasks (e.g., parse, analyze, generate report).\\\nExecute processing functions concurrently.\\\nVerify that processed documents are saved correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program to concurrently process multiple documents, such as parsing, analyzing, and generating reports. \nRequirements: \nImplement a document processing system that allows multiple documents to be processed concurrently with different tasks.\\\nEnsure that document processing tasks are performed correctly and concurrently.\\\nTest Set: \nProvide a list of document files and processing tasks (e.g., parse, analyze, generate report).\\\nExecute processing functions concurrently.\\\nVerify that processed documents are saved correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

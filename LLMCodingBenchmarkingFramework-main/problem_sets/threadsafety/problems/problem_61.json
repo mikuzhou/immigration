@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_61",
+    "description": "Description: Build a program to concurrently query a database for data. \nRequirements: \nImplement a database querying system that allows multiple database queries to be executed concurrently.\\\nEnsure that database queries are performed correctly and concurrently.\\\nTest Set: \nProvide a list of database queries and expected results.\\\nExecute query functions concurrently.\\\nVerify that all queries return the correct results.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Build a program to concurrently query a database for data. \nRequirements: \nImplement a database querying system that allows multiple database queries to be executed concurrently.\\\nEnsure that database queries are performed correctly and concurrently.\\\nTest Set: \nProvide a list of database queries and expected results.\\\nExecute query functions concurrently.\\\nVerify that all queries return the correct results.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

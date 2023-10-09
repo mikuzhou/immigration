@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_1",
+    "description": "Description: Create a program that processes a list of data concurrently using multiple threads.\\\nRequirements:\\\nImplement a function that processes data concurrently.\\\nDivide the data into smaller subtasks for parallel processing.\\\nEnsure accurate data processing and thread-safety.\\\nTest Set:[1, 2, 3, 4, 5] \nProcess a list of numbers and return their sum.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program that processes a list of data concurrently using multiple threads.\\\nRequirements:\\\nImplement a function that processes data concurrently.\\\nDivide the data into smaller subtasks for parallel processing.\\\nEnsure accurate data processing and thread-safety.\\\nTest Set:[1, 2, 3, 4, 5] \nProcess a list of numbers and return their sum.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

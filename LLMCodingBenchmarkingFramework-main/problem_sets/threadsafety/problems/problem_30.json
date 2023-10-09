@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_30",
+    "description": "Description: Build a program that plays multiple music tracks concurrently. \nRequirements: \nImplement a music playback system that allows multiple tracks to be played concurrently.\\\nEnsure that music tracks are played correctly and concurrently.\\\nTest Set: \nProvide a list of music tracks.\\\nExecute music playback functions concurrently.\\\nVerify that all tracks are played correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Build a program that plays multiple music tracks concurrently. \nRequirements: \nImplement a music playback system that allows multiple tracks to be played concurrently.\\\nEnsure that music tracks are played correctly and concurrently.\\\nTest Set: \nProvide a list of music tracks.\\\nExecute music playback functions concurrently.\\\nVerify that all tracks are played correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

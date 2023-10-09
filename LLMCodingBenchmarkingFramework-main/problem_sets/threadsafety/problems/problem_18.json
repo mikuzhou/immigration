@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_18",
+    "description": "Description: Build a program that sends emails concurrently to a list of recipients. \nRequirements: \nImplement an email sending system that allows multiple emails to be sent concurrently.\\\nEnsure that emails are sent correctly and concurrently.\\\nTest Set: \nProvide a list of email addresses as recipients.\\\nExecute email sending functions concurrently.\\\nVerify that all emails are sent correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Build a program that sends emails concurrently to a list of recipients. \nRequirements: \nImplement an email sending system that allows multiple emails to be sent concurrently.\\\nEnsure that emails are sent correctly and concurrently.\\\nTest Set: \nProvide a list of email addresses as recipients.\\\nExecute email sending functions concurrently.\\\nVerify that all emails are sent correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

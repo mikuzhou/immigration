@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_22",
+    "description": "Description: Create a program to process video frames concurrently from multiple cameras. \nRequirements: \nImplement a video processing system that allows frames from multiple cameras to be processed concurrently.\\\nEnsure that video frames are processed correctly and concurrently.\\\nTest Set: \nProvide video frames from multiple cameras.\\\nExecute frame processing functions concurrently.\\\nVerify that video frames are processed correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program to process video frames concurrently from multiple cameras. \nRequirements: \nImplement a video processing system that allows frames from multiple cameras to be processed concurrently.\\\nEnsure that video frames are processed correctly and concurrently.\\\nTest Set: \nProvide video frames from multiple cameras.\\\nExecute frame processing functions concurrently.\\\nVerify that video frames are processed correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

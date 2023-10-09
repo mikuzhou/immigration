@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_43",
+    "description": "Description: Develop a program that concurrently analyzes data from multiple sources. \nRequirements: \nImplement a data analysis system that allows multiple data sources to be analyzed concurrently.\\\nEnsure that data analysis is performed correctly and concurrently.\\\nTest Set: \nProvide a list of data sources to analyze.\\\nExecute data analysis functions concurrently.\\\nVerify that all data analysis results are correct.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program that concurrently analyzes data from multiple sources. \nRequirements: \nImplement a data analysis system that allows multiple data sources to be analyzed concurrently.\\\nEnsure that data analysis is performed correctly and concurrently.\\\nTest Set: \nProvide a list of data sources to analyze.\\\nExecute data analysis functions concurrently.\\\nVerify that all data analysis results are correct.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

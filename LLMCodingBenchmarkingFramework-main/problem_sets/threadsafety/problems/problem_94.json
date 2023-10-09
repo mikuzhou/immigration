@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_94",
+    "description": "Description: Create a program to concurrently send emails to multiple recipients using different email servers. \nRequirements: \nImplement an email sending system that allows multiple emails to be sent concurrently to various recipients.\\\nEnsure that emails are sent correctly and concurrently.\\\nTest Set: \nProvide a list of email messages, recipient addresses, and email servers.\\\nExecute email sending functions concurrently.\\\nVerify that emails are sent correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program to concurrently send emails to multiple recipients using different email servers. \nRequirements: \nImplement an email sending system that allows multiple emails to be sent concurrently to various recipients.\\\nEnsure that emails are sent correctly and concurrently.\\\nTest Set: \nProvide a list of email messages, recipient addresses, and email servers.\\\nExecute email sending functions concurrently.\\\nVerify that emails are sent correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

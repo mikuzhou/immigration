@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_48",
+    "description": "Description: Create a program for concurrent posting of social media updates. \nRequirements: \nImplement a social media posting system that allows multiple users to post updates concurrently.\\\nEnsure that social media posts are made correctly and concurrently.\\\nTest Set: \nProvide a list of users and their posts.\\\nExecute posting functions concurrently.\\\nVerify that all posts are published correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program for concurrent posting of social media updates. \nRequirements: \nImplement a social media posting system that allows multiple users to post updates concurrently.\\\nEnsure that social media posts are made correctly and concurrently.\\\nTest Set: \nProvide a list of users and their posts.\\\nExecute posting functions concurrently.\\\nVerify that all posts are published correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

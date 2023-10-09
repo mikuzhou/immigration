@@ -1,0 +1,60 @@
+{
+    "identifier": "problem_27",
+    "description": "Description: Design a program for reading sensor data concurrently. \nRequirements: \nImplement a sensor reading system that allows multiple sensors to read data concurrently.\\\nEnsure that sensor data is read correctly and concurrently.\\\nTest Set: \nSimulate multiple sensors reading data concurrently.\\\nVerify that the sensor data is read correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Design a program for reading sensor data concurrently. \nRequirements: \nImplement a sensor reading system that allows multiple sensors to read data concurrently.\\\nEnsure that sensor data is read correctly and concurrently.\\\nTest Set: \nSimulate multiple sensors reading data concurrently.\\\nVerify that the sensor data is read correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "read_sensor",
+        "parameters": [
+            {
+                "name": "sensor_id",
+                "type": "str"
+            },
+            {
+                "name": "reading",
+                "type": "float"
+            }
+        ],
+        "return_values": [
+            {
+                "type": "dict"
+            }
+        ]
+    },
+    "correctness_test_suite": [
+        {
+            "input": {
+                "sensor_id": "Sensor1",
+                "reading": 25.5
+            },
+            "expected_output": [
+                {
+                    "Sensor1": 25.5
+                }
+            ]
+        },
+        {
+            "input": {
+                "sensor_id": "Sensor2",
+                "reading": 30.0
+            },
+            "expected_output": [
+                {
+                    "Sensor2": 30.0
+                }
+            ]
+        }
+    ],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

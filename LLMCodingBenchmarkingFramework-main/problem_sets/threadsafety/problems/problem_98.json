@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_98",
+    "description": "Description: Create a concurrent chat application that allows multiple users to send and receive messages in real-time. \nRequirements: \nImplement a chat application that supports multiple users communicating concurrently.\\\nEnsure that messages are delivered correctly and in real-time to the intended recipients.\\\nTest Set: \nSimulate multiple users sending messages concurrently.\\\nVerify that messages are correctly delivered to the intended recipients in real-time.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a concurrent chat application that allows multiple users to send and receive messages in real-time. \nRequirements: \nImplement a chat application that supports multiple users communicating concurrently.\\\nEnsure that messages are delivered correctly and in real-time to the intended recipients.\\\nTest Set: \nSimulate multiple users sending messages concurrently.\\\nVerify that messages are correctly delivered to the intended recipients in real-time.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

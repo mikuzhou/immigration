@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_21",
+    "description": "Description: Develop a program to process sensor data concurrently from multiple sensors. \nRequirements: \nImplement a sensor data processing system that allows data from multiple sensors to be processed concurrently.\\\nEnsure that sensor data is processed correctly and concurrently.\\\nTest Set: \nProvide data from multiple sensors.\\\nExecute data processing functions concurrently.\\\nVerify that sensor data is processed correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program to process sensor data concurrently from multiple sensors. \nRequirements: \nImplement a sensor data processing system that allows data from multiple sensors to be processed concurrently.\\\nEnsure that sensor data is processed correctly and concurrently.\\\nTest Set: \nProvide data from multiple sensors.\\\nExecute data processing functions concurrently.\\\nVerify that sensor data is processed correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

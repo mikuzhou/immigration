@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_5",
+    "description": "Description: Build a program that scrapes information from multiple web pages concurrently. \nRequirements: \nImplement a function to scrape web pages concurrently.\\\nAllow multiple threads to scrape web pages concurrently.\\\nEnsure accurate web scraping and thread-safety.\\\nTest Set:    urls = [\\",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Build a program that scrapes information from multiple web pages concurrently. \nRequirements: \nImplement a function to scrape web pages concurrently.\\\nAllow multiple threads to scrape web pages concurrently.\\\nEnsure accurate web scraping and thread-safety.\\\nTest Set:    urls = [\\",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

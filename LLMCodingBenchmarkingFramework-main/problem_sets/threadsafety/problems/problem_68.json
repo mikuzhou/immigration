@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_68",
+    "description": "Description: Create a program to concurrently analyze the stock market data for multiple companies. \nRequirements: \nImplement a stock analysis system that allows multiple companies' stock data to be analyzed concurrently.\\\nEnsure that stock analysis is performed correctly and concurrently.\\\nTest Set: \nProvide a list of companies and analysis tasks.\\\nExecute analysis functions concurrently.\\\nVerify that all analysis tasks are completed correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program to concurrently analyze the stock market data for multiple companies. \nRequirements: \nImplement a stock analysis system that allows multiple companies' stock data to be analyzed concurrently.\\\nEnsure that stock analysis is performed correctly and concurrently.\\\nTest Set: \nProvide a list of companies and analysis tasks.\\\nExecute analysis functions concurrently.\\\nVerify that all analysis tasks are completed correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

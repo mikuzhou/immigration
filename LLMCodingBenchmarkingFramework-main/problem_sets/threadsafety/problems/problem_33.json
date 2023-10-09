@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_33",
+    "description": "Description: Create a program to crawl web pages concurrently. \nRequirements: \nImplement a web crawling system that allows multiple web pages to be crawled concurrently.\\\nEnsure that web pages are crawled correctly and concurrently.\\\nTest Set: \nProvide a set of web pages for crawling.\\\nExecute web crawling functions concurrently.\\\nVerify that all web pages are crawled correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program to crawl web pages concurrently. \nRequirements: \nImplement a web crawling system that allows multiple web pages to be crawled concurrently.\\\nEnsure that web pages are crawled correctly and concurrently.\\\nTest Set: \nProvide a set of web pages for crawling.\\\nExecute web crawling functions concurrently.\\\nVerify that all web pages are crawled correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_85",
+    "description": "Description: Create a program to concurrently process multiple videos, such as resizing, cropping, or applying filters. \nRequirements: \nImplement a video processing system that allows multiple videos to be processed concurrently with different tasks.\\\nEnsure that video processing tasks are performed correctly and concurrently.\\\nTest Set: \nProvide a list of video files and processing tasks (e.g., resize, crop, filter).\\\nExecute processing functions concurrently.\\\nVerify that processed videos are saved correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program to concurrently process multiple videos, such as resizing, cropping, or applying filters. \nRequirements: \nImplement a video processing system that allows multiple videos to be processed concurrently with different tasks.\\\nEnsure that video processing tasks are performed correctly and concurrently.\\\nTest Set: \nProvide a list of video files and processing tasks (e.g., resize, crop, filter).\\\nExecute processing functions concurrently.\\\nVerify that processed videos are saved correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

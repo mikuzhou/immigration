@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_44",
+    "description": "Description: Design a program to concurrently process logs from multiple sources. \nRequirements: \nImplement a log processing system that allows logs from various sources to be processed concurrently.\\\nEnsure that log processing is performed correctly and concurrently.\\\nTest Set: \nProvide log data from multiple sources.\\\nExecute log processing functions concurrently.\\\nVerify that all logs are processed correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Design a program to concurrently process logs from multiple sources. \nRequirements: \nImplement a log processing system that allows logs from various sources to be processed concurrently.\\\nEnsure that log processing is performed correctly and concurrently.\\\nTest Set: \nProvide log data from multiple sources.\\\nExecute log processing functions concurrently.\\\nVerify that all logs are processed correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_47",
+    "description": "Description: Build a program for concurrent searching across multiple data sources. \nRequirements: \nImplement a search engine that allows multiple search queries to be executed concurrently across various data sources.\\\nEnsure that search queries are processed correctly and concurrently.\\\nTest Set: \nProvide a list of search queries and data sources to search.\\\nExecute search queries concurrently.\\\nVerify that search results are accurate.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Build a program for concurrent searching across multiple data sources. \nRequirements: \nImplement a search engine that allows multiple search queries to be executed concurrently across various data sources.\\\nEnsure that search queries are processed correctly and concurrently.\\\nTest Set: \nProvide a list of search queries and data sources to search.\\\nExecute search queries concurrently.\\\nVerify that search results are accurate.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

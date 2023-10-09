@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_24",
+    "description": "Description: Develop a program to process videos concurrently. \nRequirements: \nImplement a video processing system that allows multiple videos to be processed concurrently.\\\nEnsure that videos are processed correctly and concurrently.\\\nTest Set: \nProvide a set of video files for processing.\\\nExecute video processing functions concurrently.\\\nVerify that all videos are processed correctly.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Develop a program to process videos concurrently. \nRequirements: \nImplement a video processing system that allows multiple videos to be processed concurrently.\\\nEnsure that videos are processed correctly and concurrently.\\\nTest Set: \nProvide a set of video files for processing.\\\nExecute video processing functions concurrently.\\\nVerify that all videos are processed correctly.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

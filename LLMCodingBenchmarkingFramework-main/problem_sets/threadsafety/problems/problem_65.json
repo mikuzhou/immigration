@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_65",
+    "description": "Description: Create a program to concurrently download multiple files from the internet. \nRequirements: \nImplement a file download system that allows multiple files to be downloaded concurrently.\\\nEnsure that files are downloaded completely and concurrently.\\\nTest Set: \nProvide a list of file URLs to download.\\\nExecute download functions concurrently.\\\nVerify that all files are downloaded successfully.",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Create a program to concurrently download multiple files from the internet. \nRequirements: \nImplement a file download system that allows multiple files to be downloaded concurrently.\\\nEnsure that files are downloaded completely and concurrently.\\\nTest Set: \nProvide a list of file URLs to download.\\\nExecute download functions concurrently.\\\nVerify that all files are downloaded successfully.",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}

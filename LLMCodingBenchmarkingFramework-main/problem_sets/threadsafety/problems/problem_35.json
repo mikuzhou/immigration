@@ -1,0 +1,24 @@
+{
+    "identifier": "problem_35",
+    "description": "Description: Design a program that simulates a game concurrently. \nRequirements: \nImplement a game simulation system that allows multiple players to interact with the game concurrently.\\\nEnsure that the game simulation is performed correctly and concurrently.\\\nTest Set: \nDefine a set of game scenarios with multiple players.\\\nExecute game simulation functions concurrently.\\\nVerify that the game simulation results are correct.\\",
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Description: Design a program that simulates a game concurrently. \nRequirements: \nImplement a game simulation system that allows multiple players to interact with the game concurrently.\\\nEnsure that the game simulation is performed correctly and concurrently.\\\nTest Set: \nDefine a set of game scenarios with multiple players.\\\nExecute game simulation functions concurrently.\\\nVerify that the game simulation results are correct.\\",
+            "genericize": false,
+             "sample_inputs_outputs": []
+
+        }
+    ],
+    "function_prototype": {
+        "function_name": "",
+        "parameters": [],
+        "return_values": []
+    },
+    "correctness_test_suite": [],
+    "optimal_solution": "",
+    "additional_instructions": "because not given function prototype, you can decide it yourself",
+    "tags": [
+        "N/A"
+    ]
+}
