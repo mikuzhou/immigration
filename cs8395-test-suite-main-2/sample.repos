@@ -1,0 +1,9 @@
+repositories:
+  code-coverage:
+    type: git
+    url: https://github.com/mikuzhou/ad-miniresearch.git
+    version: master
+  demo:
+    type: git
+    url: https://github.com/mikuzhou/ad-miniresearch.git
+    version: master
